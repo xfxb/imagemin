@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "maiyan",
+  "author": "xfxb",
   "license": "ISC",
   "dependencies": {
     "imagemin": "^6.0.0",
