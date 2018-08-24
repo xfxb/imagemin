@@ -1,5 +1,7 @@
 # imagemin 图片压缩
 
+压缩src目录的图片，支持jpg、png、gif。
+
 ## 使用教程
 
 ### 方法1
